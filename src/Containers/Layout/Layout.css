@@ -1,0 +1,13 @@
+.join-host{
+    font-size: 2em;
+    margin-top: 2em;
+}
+
+.join{
+    margin: 1em auto;
+    box-sizing: border-box;
+    padding: 1em;
+    border-radius: 25px;
+    border: 2px solid lightgray ;
+    text-align: center;
+}

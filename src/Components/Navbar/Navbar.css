@@ -1,0 +1,11 @@
+.navbar-brand{
+    font-size: 2em;
+    font-family: 'Galada', cursive;
+    font-weight: 900;
+    color: darkblue !important;
+    margin-right: 2em;
+}
+
+.nav-item{
+    margin-left: 1em;
+}

@@ -1,0 +1,8 @@
+.footer{
+    background-color: darkblue;
+    color: lightgray;
+    padding: 0.7em;
+}
+.footer h5{
+    margin: 0 1.5em;
+}

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Navbar.css';
 import Aux from '../../hoc/Auxiliary';
 
 class Navbar extends Component {
@@ -22,6 +23,9 @@ class Navbar extends Component {
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#">Host Webinar</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Search Webinar</a>
                   </li>
                 </ul>
                 <form class="form-inline my-2 my-lg-0">
